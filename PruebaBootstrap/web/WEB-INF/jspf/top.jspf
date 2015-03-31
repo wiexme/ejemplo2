@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>prueba</title>
+	<link rel="stylesheet" href="css/estilos.css">
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="bootstrap/css/bootstrap.css">
+</head>
+<body>
+	
+		<header>
+		<div class = "cabecera">
+			<img src="recursos/logo1.png" width="50" height="40">
+			MySoftware V 0.01
+		</div>	
+		<div class="menu">
+			<a class="btn btn-warning"href="index.html">MENU LINK</a>
+			<button type="button" class="btn btn-primary">MENU</button>
+ 			<button type="button" class="btn btn-success">CATEGORIA</button>
+ 			<button type="button" class="btn btn-info">REPORTE</button>
+ 			<button type="button" class="btn btn-danger">SALIR</button>
+		</div>
+		</header>

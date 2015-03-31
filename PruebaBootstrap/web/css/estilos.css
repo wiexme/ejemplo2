@@ -1,11 +1,29 @@
-h3{
-	color: #FF0000;
-}
+.cabecera{
 
-h5{
-	color: #0101DF;
-}
+background: #848484;
+color: #FFFFFF;
+height: 100px;
+font-size: 200%;
+padding: 15px;
+margin: 10px;
 
-.cuerpo{
-	background: #F7FE2E;
+}
+.cabecera2{
+margin-top: 20px;
+text-align: center;
+font-weight: bold;
+}
+.cuerpo1{
+text-align: justify;
+height: 450px;
+}
+footer{
+	text-align: center;
+	background: #A4A4A4;
+	margin: 10px;
+	color: #FFFFFF;
+}
+.menu{
+	margin-left: 40px;
+	margin-top: -47px;
 }
